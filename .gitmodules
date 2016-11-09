@@ -1,0 +1,3 @@
+[submodule "sottomodulo"]
+	path = sottomodulo
+	url = https://github.com/morlins/prova-submodule.git
