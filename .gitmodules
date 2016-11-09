@@ -1,6 +1,8 @@
 [submodule "sottomodulo"]
 	path = sottomodulo
 	url = https://github.com/morlins/prova-submodule.git
+	branch = master
 [submodule "sottomodulo2"]
 	path = sottomodulo2
 	url = https://github.com/morlins/submodule-2
+	branch = master
